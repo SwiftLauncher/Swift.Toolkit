@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>Swift.Toolkit</id>
+        <version>$version$</version>
+        <title>Swift.Toolkit</title>
+        <authors>Tim Vinkemeier</authors>
+        <owners>Tim Vinkemeier</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Contains utility classes for the Swift launcher.</description>
+        <copyright>Copyright ©  2015</copyright>
+    </metadata>
+    <files>
+        <file src="..\Swift.Toolkit\bin\Release\Swift.Toolkit.dll" target="lib\net45\Swift.Toolkit.dll" />
+        <file src="..\Swift.Toolkit\bin\Release\Swift.Toolkit.xml" target="lib\net45\Swift.Toolkit.xml" />
+    </files>
+</package>
